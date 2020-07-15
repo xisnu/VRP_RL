@@ -1,0 +1,7 @@
+random_seed:2
+test_size:50
+n_nodes: 11
+n_cust: 10
+batch_size:64
+capacity: 20
+input_dim:2
